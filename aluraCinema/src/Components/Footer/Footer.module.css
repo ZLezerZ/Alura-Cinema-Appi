@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3em;
+    background-color: var(--negro);
+    gap: 1em;
+}
+
+.footer p{
+    font-family: "Montserrat", sans-serif;
+    color: var(--blanco);
+    font-weight: 600;
+    font-size: 1.5rem;
+}

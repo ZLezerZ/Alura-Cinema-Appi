@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+}
+
+.contenedorCartas{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    width: 100%;
+    justify-content: center;
+}

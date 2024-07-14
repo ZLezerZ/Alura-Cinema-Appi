@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    margin: 1em;
+    background-color: var(---gris);
+    width: 283px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.container picture .capa{
+    width: 100%;
+    border-radius: 15px;
+}

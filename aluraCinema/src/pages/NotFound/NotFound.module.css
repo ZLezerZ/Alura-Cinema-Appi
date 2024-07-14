@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error{
+    margin: 0;
+    font-size: 12em;
+    color: red;
+}
+
+.text_error{
+    width: 100%;
+    margin: 0;
+    font-size: 2em;
+    height: 2em;
+}
